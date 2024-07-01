@@ -1,5 +1,7 @@
 # js-jsnacks-blocco-1
 
+-----jsnack1-----
+
 1. Creo una variabile array che contenga la lista degli invitati
 2. Creo la variabile button collegandola tramite id all'elemento html
 3. Creo la function annessa al button in cui vado a reperirmi il value del nome inserito dall'utente ed inoltre creo una variabile di controllo
