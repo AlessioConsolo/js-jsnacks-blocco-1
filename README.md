@@ -14,3 +14,10 @@
 3. Creo la function annessa al button in cui vado a reperirmi il value dei numeri inseriti dall'utente
 4. Creo un ciclo for in grado di controllare tutti i numeri inseriti e verificare se sono dispari
 5. Se il numero è dispari viene pushato all'interno dell'array
+
+-----jsnack3-----
+
+1. Creo una variabile button che si colleghi al button inserito in HTML
+2. Creo una funzione in grado di recuperare il numero inserito nell'imput
+3. imposto la variabile somma a 0
+4. Creo un ciclo for in grado di convertire la cifra corrente in un numero intero tramite parseInt e sommo il tutto
