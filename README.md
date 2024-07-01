@@ -8,3 +8,9 @@
 4. All'interno dell'eventlistener vado a creare un ciclo for in grado di controllare se il nome inserito dall'utente sia riconosciuto dalla variabile di controllo, se passa il controllo l'accesso viene autorizzato mentre in caso contrario fallirà l'autenticazione
 
 -----jsnack2-----
+
+1. Creo un array vuoto
+2. Creo una variabile button che si vada a collegare tramite id all'elemento html
+3. Creo la function annessa al button in cui vado a reperirmi il value dei numeri inseriti dall'utente
+4. Creo un ciclo for in grado di controllare tutti i numeri inseriti e verificare se sono dispari
+5. Se il numero è dispari viene pushato all'interno dell'array
