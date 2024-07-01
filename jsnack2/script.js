@@ -14,4 +14,14 @@ button.addEventListener("click", function () {
   let numero6 = document.getElementById("numero6").value;
 
   console.log(numero1, numero2, numero3, numero4, numero5, numero6);
+
+  for (let i = 1; i <= 6; i++) {
+    let numero = document.getElementById("numero" + i).value;
+
+    if (numero % 2 !== 0) {
+      lista_numeri.push(numero);
+    }
+  }
+
+  console.log(lista_numeri);
 });
